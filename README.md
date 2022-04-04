@@ -174,9 +174,9 @@ Insert your gif from Giphy.
 
 #### Usage ####
 
----
+```
 {% owl imdb imdb_id [detail] %}
----
+```
 
 * **imdb_id** - imdb id
 * detail - the movie's details

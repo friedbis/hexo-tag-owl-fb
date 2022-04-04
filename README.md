@@ -21,6 +21,7 @@ An useful media tag for [Hexo] 3.x, [Demo page]
 * Support images sources
   * Local images
   * [Giphy](http://giphy.com/)
+  * [IMDB](https://www.imdb.com)
 * Auto stylesheet embedding
 
 ## Installation ##
@@ -82,6 +83,7 @@ Each videos source will add additional class `.owl-[source]`:
 ```
 {% owl youtube youtube_id %}
 {% owl niconico niconico_id [type] %}
+{% owl nicovideo niconico_id [type] %}
 {% owl bilibili bilibili_id [page] %}
 {% owl vimeo vimeo_id %}
 {% owl tudou tudou_id %}
@@ -167,6 +169,18 @@ Insert your gif from Giphy.
 ```
 {% owl giphy AxqJJOBkWHXW %}
 ```
+
+### IMDB ###
+
+#### Usage ####
+
+---
+{% owl imdb imdb_id [detail] %}
+---
+
+* **imdb_id** - imdb id
+* detail - the movie's details
+
 
 ## Contributors ##
 

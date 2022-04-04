@@ -179,7 +179,7 @@ Insert your gif from Giphy.
 ```
 
 * **imdb_id** - imdb id
-* detail - the movie's details
+* **detail** - the movie's details
 
 
 ## Contributors ##

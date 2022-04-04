@@ -187,6 +187,8 @@ Insert your gif from Giphy.
 * [Tao Wang](https://github.com/twang2218): Tencent (騰訊視頻) plugin function
 * [Riff](https://github.com/r12f): TED videos plugin support
 
+* [friedbiscuit](https://github.com/friedbis): IMDB image plugin support
+
 ## License ##
 
 MIT

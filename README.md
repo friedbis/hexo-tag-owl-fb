@@ -29,7 +29,7 @@ An useful media tag for [Hexo] 3.x, [Demo page]
 Run the following command in the root directory of hexo:
 
 ```
-npm install hexo-tag-owl --save
+npm install git+https://github.com/friedbis/hexo-tag-owl-fb.git --save
 ```
 
 ## Introduction ##

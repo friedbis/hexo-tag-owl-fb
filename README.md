@@ -24,6 +24,11 @@ An useful media tag for [Hexo] 3.x, [Demo page]
   * [IMDB](https://www.imdb.com)
 * Auto stylesheet embedding
 
+## Update
+
+- Updated the way of access to imdb
+
+
 ## Installation ##
 
 Run the following command in the root directory of hexo:
